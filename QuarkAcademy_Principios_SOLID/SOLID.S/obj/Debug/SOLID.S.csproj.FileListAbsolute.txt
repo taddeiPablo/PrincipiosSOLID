@@ -1,0 +1,7 @@
+C:\Users\pablo\Documents\GitHub\PrincipiosSOLID\QuarkAcademy_Principios_SOLID\SOLID.S\bin\Debug\SOLID.S.exe.config
+C:\Users\pablo\Documents\GitHub\PrincipiosSOLID\QuarkAcademy_Principios_SOLID\SOLID.S\bin\Debug\SOLID.S.exe
+C:\Users\pablo\Documents\GitHub\PrincipiosSOLID\QuarkAcademy_Principios_SOLID\SOLID.S\bin\Debug\SOLID.S.pdb
+C:\Users\pablo\Documents\GitHub\PrincipiosSOLID\QuarkAcademy_Principios_SOLID\SOLID.S\obj\Debug\SOLID.S.csproj.AssemblyReference.cache
+C:\Users\pablo\Documents\GitHub\PrincipiosSOLID\QuarkAcademy_Principios_SOLID\SOLID.S\obj\Debug\SOLID.S.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\PrincipiosSOLID\QuarkAcademy_Principios_SOLID\SOLID.S\obj\Debug\SOLID.S.exe
+C:\Users\pablo\Documents\GitHub\PrincipiosSOLID\QuarkAcademy_Principios_SOLID\SOLID.S\obj\Debug\SOLID.S.pdb
